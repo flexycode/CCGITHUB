@@ -138,7 +138,7 @@ development skills and fostering collaboration with other developers. Thank you 
 
 # 📫 Changelogs
 ```
-## [12.0.1] - 2024-12-30     
+## [1.0.1] - 2024-01-01     
 ### Added  
 - ✨ Create Repository
 
@@ -148,13 +148,12 @@ development skills and fostering collaboration with other developers. Thank you 
 - ✨ Fix changelogs
 - ✨ Fix error modules
 
-## [01.0.1] - 2025-01-01   
-### Added  
-- ✨ Coming Soon
-- ✨ Coming Soon
+## [01.0.1] - 2024-01-05   
+### Fixed  
+- ✨ Fix Node modules
+- ✨ Fix Index.js
 
 🧊 CCGITHUB
-
 ```
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
