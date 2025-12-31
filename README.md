@@ -14,6 +14,7 @@ This elective course provides students with the theoretical knowledge and practi
 - [Usage](#-usage)
 - [Key Features](#-key-features)
 - [Contributing](#-contributing)
+- [Contributors](#-contributors)
 - [License](#-license)
 - [Changelogs](#-changelogs)
 
@@ -120,17 +121,16 @@ git push -u origin main
 * If you are using SSH instead of HTTPS, the remote URL will look like `git@github.com:username/repository.git`.
 
 
-# 🏆 Contributing
-```
-coming soon...
-```
+# 👷 Contributors
+- **Jay Arre Talosig**
+- **Artificial Ledger Technology**
 
 # 🔑 License
 ```
-coming soon...
+MIT License
 ```
 <!-- 
-This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCDATRCL/blob/main/LICENSE) 
+This course project repository is licensed under the [MIT License](https://github.com/flexycode/CCGITHUB/blob/main/LICENSE) 
 -->
 
 # 🔭 Acknowledgements   
