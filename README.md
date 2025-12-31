@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCGITHUB/blob/main/asset/GitHub2.png" />
+
 # CCGITHUB
 For Testing Only (Nasty Stuff)
 
@@ -45,6 +48,9 @@ This documentation covers a wide range of topics, including Git fundamentals, br
 **Community Contributions**: An open platform for users to share their insights, tools, and practices, fostering a collaborative learning environment.
 
 ---
+
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCGITHUB/blob/main/asset/Github.png" />
 
 
 # Steps to Push Files to GitHub
